@@ -28,6 +28,7 @@ body{
 	margin-bottom: 20px;
 	text-transform: uppercase;
 	line-height: .75;
+	float:left;
 
 }
 .navbar-toggle{
